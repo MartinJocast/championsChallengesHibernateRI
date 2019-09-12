@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="championschallengeproject" match-name=".*"/>
+  <table-filter match-catalog="championschallengeproject" match-name="clubs"/>
+  <table-filter match-catalog="championschallengeproject" match-name="leagues"/>
+  <table-filter match-catalog="championschallengeproject" match-name="leagues_have_users"/>
+  <table-filter match-catalog="championschallengeproject" match-name="match_of_ze_day"/>
+  <table-filter match-catalog="championschallengeproject" match-name="players"/>
+  <table-filter match-catalog="championschallengeproject" match-name="results_users"/>
+  <table-filter match-catalog="championschallengeproject" match-name="stats_players"/>
+  <table-filter match-catalog="championschallengeproject" match-name="teams"/>
+  <table-filter match-catalog="championschallengeproject" match-name="teams_have_players"/>
+  <table-filter match-catalog="championschallengeproject" match-name="users"/>
+</hibernate-reverse-engineering>
